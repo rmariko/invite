@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+  background-color: white;
+  margin: 20px;	
+  @import url('https://fonts.googleapis.com/css?family=Great+Vibes');
+  font-family: 'Great Vibes', cursive;
+}
+
+h1 {
+  font-weight: normal;
+}
+
+h3 {
+  font-weight: normal;
+}
